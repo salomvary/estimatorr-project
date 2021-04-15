@@ -1,2 +1,3 @@
-# estimatorr-project
-Public issue tracker for Estimatorr.app
+# Estimatorr Project
+
+[Public issue tracker for Estimatorr.app](https://github.com/salomvary/estimatorr-project/issues)
